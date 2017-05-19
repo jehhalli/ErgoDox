@@ -1,4 +1,6 @@
 (fp_lib_table
-  (lib (name "ErgoDOX pcb")(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
-  (lib (name lib_footprints)(type KiCad)(uri "E:\\Program Files\\KiCad\\lib_footprints")(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri /Users/jehhalli/git/ErgoDox/footprints.pretty)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri /Users/jehhalli/git/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name keebs)(type KiCad)(uri /Users/jehhalli/git/keebs.pretty)(options "")(descr ""))
+  (lib (name "ErgoDOX pcb")(type KiCad)(uri "/Users/jehhalli/git/ErgoDox/Ergodox pcb")(options "")(descr ""))
 )
